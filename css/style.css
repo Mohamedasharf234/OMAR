@@ -1,0 +1,43 @@
+body{
+    font-family:'Tajawal' ;
+    background-color: black;
+}
+.navbar-brand{
+    font-size: 25px;
+}
+
+.navbar{
+    font-size:25px ;
+    
+}
+.navbar ul li{
+    margin-left:10px ;
+}
+.navbar ul li a{
+    color: white;
+}
+.navbar ul li a:hover{
+    color:blue ;
+}
+.pictures .card{
+    background-color: black;
+    color: white;
+    text-align: center;  
+}
+.stars{
+    list-style: none;
+    display: flex;
+}
+.icons{
+    list-style: none;
+}
+.icons li{
+    margin-left:15px ;
+}
+.stars li i{
+    color: yellow;
+}
+.card a{
+    text-decoration: none;
+    font-size: 28px;
+}
